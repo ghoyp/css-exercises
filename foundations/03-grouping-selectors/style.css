@@ -1,0 +1,18 @@
+.borders{
+    border: black;
+    border-width: thick;
+    border-color: black;
+    font-size: 50px;
+}
+.yellow{
+    color: black;
+    background-color: yellow; 
+    border:10px;  
+    border-color: black;
+}
+.black{
+    color: white;
+    background: black;
+    border: 10px;
+    border-color: black;
+}
